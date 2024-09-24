@@ -1,6 +1,6 @@
 from decimal import Decimal, getcontext
 
-getcontext().prec = 1000
+# getcontext().prec = 1000
 a = Decimal('10')
 b = Decimal('3')
 
